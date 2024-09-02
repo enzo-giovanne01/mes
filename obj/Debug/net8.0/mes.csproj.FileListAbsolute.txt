@@ -1,0 +1,14 @@
+C:\projetos C#\mes\bin\Debug\net8.0\mes.exe
+C:\projetos C#\mes\bin\Debug\net8.0\mes.deps.json
+C:\projetos C#\mes\bin\Debug\net8.0\mes.runtimeconfig.json
+C:\projetos C#\mes\bin\Debug\net8.0\mes.dll
+C:\projetos C#\mes\bin\Debug\net8.0\mes.pdb
+C:\projetos C#\mes\obj\Debug\net8.0\mes.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos C#\mes\obj\Debug\net8.0\mes.AssemblyInfoInputs.cache
+C:\projetos C#\mes\obj\Debug\net8.0\mes.AssemblyInfo.cs
+C:\projetos C#\mes\obj\Debug\net8.0\mes.csproj.CoreCompileInputs.cache
+C:\projetos C#\mes\obj\Debug\net8.0\mes.dll
+C:\projetos C#\mes\obj\Debug\net8.0\refint\mes.dll
+C:\projetos C#\mes\obj\Debug\net8.0\mes.pdb
+C:\projetos C#\mes\obj\Debug\net8.0\mes.genruntimeconfig.cache
+C:\projetos C#\mes\obj\Debug\net8.0\ref\mes.dll
